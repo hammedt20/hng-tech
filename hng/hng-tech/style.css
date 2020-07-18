@@ -1,0 +1,1182 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 4108px;
+    position: relative;
+    overflow-x: hidden;
+}
+
+
+.header {
+    width: 100vw;
+    height: 20%;
+}
+
+.header .line1 {
+    position: absolute;
+    width: 341px;
+    height: 60px;
+    left: 89px;
+    top: 270px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 60px;
+    /* identical to box height, or 200% */
+    color: #000000;
+}
+
+.header .line2 {
+    position: absolute;
+    left: 5.56%;
+    right: 50.25%;
+    top: 8.64%;
+    bottom: 88.63%;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 56px;
+    /* or 112% */
+
+
+    color: #084482;
+
+    mix-blend-mode: normal;
+}
+
+.header .line3 {
+    position: absolute;
+    left: 5.56%;
+    right: 44.31%;
+    top: 11.98%;
+    bottom: 87.24%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height, or 152% */
+
+
+    color: #000000;
+
+    mix-blend-mode: normal;
+}
+
+.header .dot14 {
+    position: absolute;
+    left: 4.45%;
+    right: 94.9%;
+    top: 3.89%;
+    bottom: 95.85%;
+
+    background: linear-gradient(338.56deg, #24116A -623.68%, #93C1F9 820.38%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
+
+.header .dot13 {
+    position: absolute;
+    left: 2.55%;
+    right: 96.79%;
+    top: 3.89%;
+    bottom: 95.85%;
+
+    background: linear-gradient(338.56deg, #24116A -705.51%, #93C1F9 738.54%);
+}
+
+.building {
+    width: 100vw;
+    height: 17%;
+    left: 0px;
+    top: 976px;
+
+    background: #E5F7FF;
+}
+
+.building .buildinghead {
+    position: absolute;
+    left: 5.56%;
+    right: 64.81%;
+    top: 22.61%;
+    bottom: 70.67%;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 56px;
+    /* or 133% */
+
+
+    color: #084482;
+
+    mix-blend-mode: normal;
+}
+
+.building .buildingtext {
+    position: absolute;
+    width: 47%;
+    height: 452px;
+    left: 88px;
+    top: 26%;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 29px;
+    text-align: justify;
+
+    color: #000000;
+}
+
+.building .buildingimg1 {
+    position: absolute;
+    width: 18%;
+    height: 5%;
+    left: 55%;
+    top: 22%;
+}
+
+.buildinghr {
+    position: absolute;
+    width: 56px;
+    height: 2px;
+    left: 50%;
+    top: 1630px;
+    background: #24116A;
+    border-radius: 5px;
+}
+
+.building .buildingimg2 {
+    position: absolute;
+    width: 8%;
+    height: 5%;
+    left: 81%;
+    top: 20.5%;
+    z-index: 1;
+}
+
+.building .buildingimg3 {
+    position: absolute;
+    width: 18%;
+    height: 6%;
+    left: 76%;
+    top: 20%;
+    
+}
+
+.building .buildingimg4 {
+    position: absolute;
+    width: 20%;
+    height: 5%;
+    left: 69%;
+    top: 28%;
+}
+
+.building .buildtext1 {
+    position: absolute;
+    width: 145px;
+    height: 56px;
+    left: 59%;
+    top: 27%;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 56px;
+    /* identical to box height, or 267% */
+    color: #24116A;
+}
+
+.building .buildtext2 {
+    position: absolute;
+    width: 226px;
+    height: 50px;
+    left: 77%;
+    top: 26%;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 25px;
+    /* or 119% */
+
+    text-align: center;
+
+    color: #24116A;
+}
+
+.building .buildtext3 {
+    position: absolute;
+    width: 265px;
+    height: 20px;
+    left: 70%;
+    top: 33%;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 20px;
+    /* identical to box height, or 95% */
+
+
+    color: #24116A;
+}
+
+.internship {
+
+    width: 100vw;
+    height: 48%;
+    
+}
+
+.internship .internheading{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 56px;
+    /* identical to box height, or 112% */
+    margin-top: 44px;
+    margin-bottom: 62px;
+
+    color: #084482;
+
+    mix-blend-mode: normal;
+}
+
+.internship .firsthead {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 30px;
+    /* or 143% */
+
+    text-align: center;
+
+    color: #7D7987;
+
+    mix-blend-mode: normal;
+}
+
+.internship .interncard {
+    
+    width: 22vw;
+    height: 354px;
+    
+
+    background: #FFFFFF;
+    /* drop shadow */
+
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+}
+
+.internship .interncard5 {
+    width: 644px;
+    height: 354px;
+    background: #FFFFFF;
+    /* drop shadow */
+
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+}
+
+.internship .interntext {
+    width: 401px;
+    height: 258px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 25px;
+    /* or 119% */
+
+    text-align: justify;
+    float: right;
+    margin: 5%;
+
+    color: #000000;
+
+    mix-blend-mode: normal;
+}
+
+.internship .cardimg {
+    width: 255.5px;
+    height: 255.5px;
+    padding-left: 0px;
+}
+
+.internship .cardtext {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    /* or 139% */
+
+
+    color: #000000;
+
+    mix-blend-mode: normal;
+}
+
+.internship .second {
+    height: 753px;
+}
+
+.internship .secondimg{
+    width: 462.9px;
+    height: 615px;
+}
+
+.internship .secondh3 {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 56px;
+    /* identical to box height, or 156% */
+
+
+    color: #084482;
+    margin-left: 76px;
+
+    mix-blend-mode: normal;
+}
+
+.internship .secondhead {
+    margin-top: 160px;
+    margin-bottom: 78px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 21px;
+    /* identical to box height, or 42% */
+
+
+    color: #084482;
+}
+
+.internship .secondp{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 26px;
+    /* or 124% */
+
+    text-align: justify;
+    margin-left: 76px;
+}
+
+.footer {
+    width: 100vw;
+    height: 12%;
+    border: 2px solid #e5e5e5;   
+}
+
+.footer .address {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 29px;
+
+    color: #000000;
+    margin-top: 59px;
+}
+
+.footer .contact {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 29px;
+    margin-top: 59px;
+    color: #000000;
+}
+
+.footlogo {
+    margin-top: 30px;
+}
+
+.footer .footbtn{
+    background: #00AEFF;
+    border-radius: 55px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 60px;
+    /* identical to box height, or 333% */
+    margin-top: 59px;
+    width: 175px;
+    color: #FFFFFF;
+    float: right;
+    mix-blend-mode: normal;
+}
+
+.footer .fourth {
+    position: absolute;
+    bottom: 0%;
+    height: 154px;
+    width: 100vw;
+    background: #00AEFF;
+}
+
+.footerp {
+    position: absolute;
+    width: 599px;
+    height: 27px;
+    left: 88px;
+    top: 60px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.footerImg{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1110px;
+    top: 60px;
+}
+.footerImg2{
+    left: 1143px;
+}
+.footerImg3{
+    left: 1206px;
+}
+.footerImg4{
+    left: 1270px;
+}
+  
+.heroimg1 {
+    position: absolute;
+    left: 26.18%;
+    right: -26.18%;
+    top: 0%;
+    bottom: 0%;
+
+    background: linear-gradient(176.9deg, #F3F7FF -10.48%, #E5F7FF 92.66%);
+    transform: rotate(21.46deg);
+    z-index: -1;
+}
+
+.heroimg2 {
+    position: absolute;
+    width: 667px;
+    height: 696px;
+    left: 0px;
+    top: 2700px;
+
+    background: #E5F7FF;
+
+    z-index: -2;
+}
+
+@media (max-width: 1300px) {
+.header .line1 {
+        position: absolute;
+        width: 341px;
+        height: 60px;
+        left: 5.56%;
+        top: 240px;
+    
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 35px;
+        /* identical to box height, or 200% */
+        color: #000000;
+    }
+    
+    .header .line2 {
+        position: absolute;
+        left: 5.56%;
+        right: 50.25%;
+        top: 7%;
+        bottom: 88.63%;
+    
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 40px;
+        /* or 112% */
+    
+    
+        color: #084482;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .header .line3 {
+        position: absolute;
+        left: 5.56%;
+        right: 44.31%;
+        top: 9.98%;
+        bottom: 70.24%;
+    
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 20px;
+        /* identical to box height, or 152% */
+    
+    
+        color: #000000;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .building {
+        width: 100vw;
+        height: 17%;
+        left: 0px;
+        top: 976px;
+    
+        background: #E5F7FF;
+    }
+    
+    .building .buildinghead {
+        position: absolute;
+        left: 5.56%;
+        right: 64.81%;
+        top: 21.61%;
+        bottom: 70.67%;
+    
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 48px;
+        /* or 133% */
+    
+        justify-content: center;
+        color: #084482;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .building .buildingtext {
+        position: absolute;
+        width: 40%;
+        height: 452px;
+        left: 88px;
+        top: 26%;
+    
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 25px;
+        text-align: justify;
+    
+        color: #000000;
+    }
+    
+    .internship {
+    
+        width: 100vw;
+        height: 48%;
+        
+    }
+    
+    .internship .internheading{
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 45px;
+        /* identical to box height, or 112% */
+        margin-top: 34px;
+        margin-bottom: 52px;
+    
+        color: #084482;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .internship .firsthead {
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 20px;
+        /* or 143% */
+    
+        text-align: center;
+    
+        color: #7D7987;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .internship .interncard {
+        
+        width: 22vw;
+        height: 354px;
+        
+    
+        background: #FFFFFF;
+        /* drop shadow */
+    
+        box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+        border-radius: 20px;
+    }
+    
+    .internship .cardimg {
+        width: 200.5px;
+        height: 200.5px;
+        padding-left: 0px;
+    }
+    
+    .internship .cardtext {
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 20px;
+        /* or 139% */
+    
+    
+        color: #000000;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .internship .second {
+        height: 753px;
+    }
+    
+    .internship .secondimg{
+        width: 450.9px;
+        height: 615px;
+    }
+    
+    .internship .secondh3 {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 56px;
+        /* identical to box height, or 156% */
+    
+    
+        color: #084482;
+        margin-left: 76px;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .internship .secondhead {
+        margin-top: 160px;
+        margin-bottom: 78px;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 21px;
+        /* identical to box height, or 42% */
+    
+    
+        color: #084482;
+    }
+    
+    .internship .secondp{
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        line-height: 26px;
+        /* or 124% */
+    
+        text-align: justify;
+        margin-left: 80px;
+    }
+    
+    .footer {
+        width: 100vw;
+        height: 5%;
+        position: absolute;
+        bottom: 50px;
+        border: 2px solid #e5e5e5;   
+    }
+    
+    .footer .address {
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 29px;
+    
+        color: #000000;
+        margin-top: 59px;
+    }
+    
+    .footer .contact {
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 20px;
+        margin-top: 59px;
+        color: #000000;
+    }
+    
+    .footlogo {
+        margin-top: 30px;
+        width: 20%;
+        height: 5%;
+    }
+    
+    .footer .footbtn{
+        background: #00AEFF;
+        border-radius: 15px;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 13px;
+        line-height: 25px;
+        /* identical to box height, or 333% */
+        margin-top: 10px;
+        width: 100px;
+        color: #FFFFFF;
+        float: left;
+        mix-blend-mode: normal;
+    }
+    
+    .footer .fourth {
+        position: absolute;
+        top: 100%;
+        bottom: 0px;
+        height: 80px;
+        width: 100vw;
+        background: #00AEFF;
+    }
+    
+    .footerp {
+        position: absolute;
+        width: 300px;
+        height: 20px;
+        left: 70px;
+        top: 25px;
+    
+        font-family: 'Open Sans', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 11px;
+        line-height: 20px;
+    
+        color: #FFFFFF;
+    }
+    
+    .footerImg{
+        position: absolute;
+        width: 32px;
+        height: 32px;
+        left: 10px;
+        top: 40px;
+    }
+    .footerImg2{
+        left: 50px;
+    }
+    .footerImg3{
+        left: 90px;
+    }
+    .footerImg4{
+        left: 140px;
+    }
+      
+    .heroimg1 {
+        position: absolute;
+        left: 26.18%;
+        right: -26.18%;
+        top: 0%;
+        bottom: 0%;
+    
+        background: linear-gradient(176.9deg, #F3F7FF -10.48%, #E5F7FF 92.66%);
+        transform: rotate(21.46deg);
+        z-index: -1;
+    }
+    
+    .heroimg2 {
+        position: absolute;
+        width: 667px;
+        height: 696px;
+        left: 0px;
+        top: 2700px;
+    
+        background: #E5F7FF;
+    
+        z-index: -2;
+    }
+}
+
+@media (max-width: 960px){    
+    .header .line1 {
+        position: absolute;
+        width: 341px;
+        height: 60px;
+        left: 40px;
+        top: 240px;
+    
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 35px;
+        /* identical to box height, or 200% */
+        color: #000000;
+    }
+    
+    .header .line2 {
+        position: absolute;
+        left: 5.56%;
+        right: 50.25%;
+        top: 7%;
+        bottom: 88.63%;
+    
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 35px;
+        line-height: 40px;
+        /* or 112% */
+    
+    
+        color: #084482;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .header .line3 {
+        position: absolute;
+        left: 5.56%;
+        right: 44.31%;
+        top: 10.98%;
+        bottom: 70.24%;
+    
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 20px;
+        /* identical to box height, or 152% */
+    
+    
+        color: #000000;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .building {
+        width: 100vw;
+        height: 17%;
+        left: 0px;
+        top: 976px;
+    
+        background: #E5F7FF;
+    }
+    
+    .building .buildinghead {
+        position: absolute;
+        left: 88px;
+        right: 64.81%;
+        top: 20.61%;
+        bottom: 70.67%;
+    
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 35px;
+        line-height: 40px;
+        /* or 133% */
+    
+        justify-content: center;
+        color: #084482;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .building .buildingtext {
+        position: absolute;
+        width: 70%;
+        height: 452px;
+        left: 88px;
+        top: 26%;
+    
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 20px;
+        text-align: justify;
+    
+        color: #000000;
+    }
+    
+    .internship {
+    
+        width: 100vw;
+        height: 48%;
+        
+    }
+    
+    .internship .internheading{
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 35px;
+        line-height: 40px;
+        /* identical to box height, or 112% */
+        margin-top: 34px;
+        margin-bottom: 52px;
+    
+        color: #084482;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .internship .firsthead {
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 20px;
+        /* or 143% */
+    
+        text-align: center;
+    
+        color: #7D7987;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .internship .interncard {
+        
+        width: 22vw;
+        height: 354px;
+        
+    
+        background: #FFFFFF;
+        /* drop shadow */
+    
+        box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+        border-radius: 20px;
+    }
+    
+    .internship .cardimg {
+        width: 200.5px;
+        height: 200.5px;
+        padding-left: 0px;
+    }
+    
+    .internship .cardtext {
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 20px;
+        /* or 139% */
+    
+    
+        color: #000000;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .internship .second {
+        height: 753px;
+    }
+    
+    .internship .secondimg{
+        width: 200.9px;
+        height: 400px;
+    }
+    
+    .internship .secondh3 {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 40px;
+        /* identical to box height, or 156% */
+    
+    
+        color: #084482;
+        margin-left: 76px;
+    
+        mix-blend-mode: normal;
+    }
+    
+    .internship .secondhead {
+        margin-top: 160px;
+        margin-bottom: 78px;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 35px;
+        line-height: 17px;
+        /* identical to box height, or 42% */
+    
+    
+        color: #084482;
+    }
+    
+    .internship .secondp{
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+        /* or 124%  */
+    
+        text-align: justify;
+        margin-left: 76px;
+    }
+    
+    .footer {
+        width: 100vw;
+        height: 5%;
+        position: absolute;
+        bottom: 50px;
+        border: 2px solid #e5e5e5;   
+    }
+    
+    .footer .address {
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 29px;
+    
+        color: #000000;
+        margin-top: 59px;
+    }
+    
+    .footer .contact {
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 20px;
+        margin-top: 59px;
+        color: #000000;
+    }
+    
+    .footlogo {
+        margin-top: 30px;
+        width: 20%;
+        height: 5%;
+    }
+    
+    .footer .footbtn{
+        background: #00AEFF;
+        border-radius: 15px;
+        font-family: Muli;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 13px;
+        line-height: 25px;
+        /* identical to box height, or 333% */
+        margin-top: 10px;
+        width: 100px;
+        color: #FFFFFF;
+        float: left;
+        mix-blend-mode: normal;
+    }
+    
+    .footer .fourth {
+        position: absolute;
+        top: 100%;
+        bottom: 0px;
+        height: 80px;
+        width: 100vw;
+        background: #00AEFF;
+    }
+    
+    .footerp {
+        position: absolute;
+        width: 300px;
+        height: 20px;
+        left: 70px;
+        top: 25px;
+    
+        font-family: 'Open Sans', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 11px;
+        line-height: 20px;
+    
+        color: #FFFFFF;
+    }
+    
+    .footerImg{
+        position: absolute;
+        width: 32px;
+        height: 32px;
+        left: 10px;
+        top: 40px;
+    }
+    .footerImg2{
+        left: 50px;
+    }
+    .footerImg3{
+        left: 90px;
+    }
+    .footerImg4{
+        left: 140px;
+    }
+      
+    .heroimg1 {
+        position: absolute;
+        left: 26.18%;
+        right: -26.18%;
+        top: 0%;
+        bottom: 0%;
+    
+        background: linear-gradient(176.9deg, #F3F7FF -10.48%, #E5F7FF 92.66%);
+        transform: rotate(21.46deg);
+        z-index: -1;
+    }
+    
+    .heroimg2 {
+        position: absolute;
+        width: 667px;
+        height: 696px;
+        left: 0px;
+        top: 2700px;
+    
+        background: #E5F7FF;
+    
+        z-index: -2;
+    }
+}
